@@ -22,3 +22,4 @@ Hi there! 👋 I'm **Ethan Rettinger**. I've aspired to be a software developer 
 * SQL (63%)
 * React + Redux (43%)
 * C# (35%)
+[![Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ethanrettinger)](https://github.com/anuraghazra/github-readme-stats)
