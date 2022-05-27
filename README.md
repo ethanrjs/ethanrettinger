@@ -22,6 +22,10 @@ Hi there! 👋 I'm **Ethan Rettinger**. I've aspired to be a software developer 
 * SQL (63%)
 * React + Redux (43%)
 * C# (35%)
-
-[![Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ethanrettinger&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanrettinger&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+* 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ethanrettinger&show_icons=true&theme=monokai" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanrettinger&theme=monokai" />
+</a>
