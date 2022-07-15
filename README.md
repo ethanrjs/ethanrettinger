@@ -1,6 +1,6 @@
 # Ethan Rettinger
 
-Hi there! 👋 I'm **Ethan Rettinger**. I've aspired to be a software developer ever since I was in 5th grade making dysfunctional scratch projects. I enjoy completionism in my projects (although I have completed very few). My website is currently under development (and by "under development", I mean I have to rewrite it from scratch.)
+Hi there! 👋 I'm **Ethan Rettinger**. I've aspired to be a software developer ever since I was in 5th grade making dysfunctional scratch projects. JavaScript is my primary language but I prefer to use TypeScript with possible, especially with [Bun](https://bun.sh).
 
 ## Links:
 * [Twitter](https://twitter.com/RettingerEthan)
@@ -11,17 +11,6 @@ Hi there! 👋 I'm **Ethan Rettinger**. I've aspired to be a software developer 
 ### Here's all of my experiences and certifications related to IT:
 - CompTIA ITF+
 - Microsoft Office 2019 Word/Excel/PowerPoint
-
-### SoloLearn Certifications
-* PHP (**100%**)
-* HTML (**100%**)
-* JavaScript (**100%**)
-* jQuery (**100%**)
-* Java (85%)
-* CSS (64%)
-* SQL (63%)
-* React + Redux (43%)
-* C# (35%)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ethanrettinger&show_icons=true&theme=monokai" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanrettinger&theme=monokai" />
