@@ -10,6 +10,9 @@ Hi there! 👋 I'm **Ethan Rettinger**. I've aspired to be a software developer 
 * [GitHub](https://github.com/ethanrettinger)
 * [StackOverflow](https://stackoverflow.com/users/17914167/ethan-r)
 * [NPMJS](https://www.npmjs.com/~uncutgrass92)
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ethanrettinger&show_icons=true&theme=monokai" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanrettinger&theme=monokai" />
+<a href="https://github.com/ethanrettinger">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ethanrettinger&count_private=true&theme=nord" />
+</a>
+<a href="https://github.com/ethanrettinger">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=nord" />
+</a>
